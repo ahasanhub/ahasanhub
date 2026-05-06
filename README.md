@@ -1,23 +1,117 @@
-<h1 align="center">Hi 👋, I'm Ahasan Habib</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+# Hi, I'm Ahasan Habib 👋
 
-- 🔭 I’m currently working on **Dynamics 365 NAV/BC**
+## Senior Full-Stack Software Engineer | ERP Solution Architect | .NET | Azure | Dynamics 365
 
-- 🌱 I’m currently learning **Dynamics 365 Business Central,Flutter**
+I am a senior software engineer and ERP solution architect with 15+ years of experience designing, developing, and delivering enterprise-grade applications, ERP systems, SaaS platforms, APIs, dashboards, and cloud-based solutions.
 
-- 💬 Ask me about **DotNet,Nodejs,Flutter**
+My core expertise includes **.NET Core, ASP.NET Core, Node.js, Vue.js, SQL Server, Azure DevOps, REST APIs, Microsoft Dynamics 365 Business Central / NAV, AL, C/AL, and ERP system integration**.
 
-- 📫 How to reach me **shobuz.cse03@gmail.com**
+I have led large-scale digital transformation and ERP implementation projects, including national-level ERP solutions across multiple government and enterprise organizations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/@shobuz03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@shobuz03" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🔧 Core Skills
 
+### Backend
+- .NET Core / ASP.NET Core
+- C# / Web API
+- Node.js / Express.js
+- REST APIs / OData
+- Microservices architecture
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shobuz03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shobuz03" /></a></p><br><br>
+### Frontend
+- Vue.js
+- React
+- Next.js
+- JavaScript / TypeScript
+- Bootstrap / Tailwind CSS
 
+### Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps
+- CI/CD pipelines
+- Git / GitHub Actions
+- Docker basics
+
+### Databases
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### ERP & Microsoft Dynamics
+- Microsoft Dynamics 365 Business Central
+- Microsoft Dynamics NAV
+- AL / C/AL
+- NAV to Business Central Migration
+- Multi-tenant ERP Architecture
+- Power BI / RDLC Reports
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Multi-Tenant SaaS ERP Platform
+Enterprise-grade SaaS platform architecture supporting multiple organizations with role-based access, reporting, workflow automation, and ERP integration.
+
+**Tech Stack:** .NET Core, SQL Server, Azure DevOps, REST APIs, Power BI
+
+---
+
+### 2. ERP Employee Self-Service Portal
+A web-based portal for leave requests, travel approvals, employee data management, and workflow automation integrated with ERP systems.
+
+**Tech Stack:** ASP.NET Core MVC, Vue.js, REST APIs, SQL Server, Business Central OData
+
+---
+
+### 3. Real-Time Analytics Dashboard
+A dashboard platform for real-time KPI monitoring, reporting, and decision-making using ERP and operational data.
+
+**Tech Stack:** ASP.NET Core, Chart.js, Google Charts, SQL Server, Power BI
+
+---
+
+### 4. Business Central Integration API
+API integration layer for connecting Microsoft Dynamics 365 Business Central with external systems using REST APIs, OData, and secure authentication.
+
+**Tech Stack:** Business Central, AL, OData, .NET Core, Azure DevOps
+
+---
+
+## 📌 Current Focus
+
+- Azure certification preparation
+- Cloud-native application development
+- Microsoft Dynamics 365 Business Central architecture
+- SaaS and multi-tenant system design
+- International software engineering opportunities
+
+---
+
+## 🌍 Open To
+
+- Senior Full-Stack Engineer roles
+- Backend Engineer roles
+- ERP Solution Architect roles
+- Dynamics 365 Business Central Consultant roles
+- Azure Integration Developer roles
+- Remote and relocation opportunities
+
+---
+
+## 📫 Contact
+
+- Email: ahasan.cse03@gmail.com
+- LinkedIn: linkedin.com/in/ahasanhabib-erp
+- Portfolio: www.ahasanhub.com
+
+---
+
+## ⚡ Tech Stack
+
+```text
+.NET Core | ASP.NET Core | C# | Node.js | Vue.js | React | TypeScript
+SQL Server | PostgreSQL | MongoDB | Azure | Azure DevOps | Docker
+Dynamics 365 Business Central | NAV | AL | C/AL | REST API | OData
